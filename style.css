@@ -1,0 +1,30 @@
+p {
+   font-size: 30px 
+}
+ 
+ img.q {
+   width:100px;
+   height: 100px;
+ }
+
+ h1 {
+    font-size: 50px
+ }
+
+ img.w {
+   width:250px;
+   height: 330px;
+ }
+ img.e {
+   width:230px;
+   height: 300px;
+ }  
+
+ body {
+  background-image:  url('https://static.wikia.nocookie.net/55abd912-19a0-4526-937a-23432c227e09/scale-to-width/755');
+  text-align: center;
+ }
+ p {
+  color: rgb(246, 255, 0); 
+}
+  
